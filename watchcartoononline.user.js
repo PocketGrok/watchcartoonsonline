@@ -5,10 +5,10 @@
 // @author       PocketGrok
 // @description  Script to make WatchCartoonsOnline how Pocket likes it.
 // @homepage     http://pocketdeer.com/
-// @updateURL    https://raw.githubusercontent.com/PocketGrok/watchcartoononline/master/watchcartoononline.user.js
+// @updateURL    https://github.com/PocketGrok/berrytube/raw/master/berrytube.user.js
 // @match        http*://*.watchcartoononline.com/*
 // @require      https://code.jquery.com/jquery-2.1.4.min.js
-// @resource     styles_css https://raw.githubusercontent.com/PocketGrok/watchcartoononline/master/styles.min.css
+// @resource     styles_css https://github.com/PocketGrok/berrytube/raw/master/styles.min.css
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 // ==/UserScript==
